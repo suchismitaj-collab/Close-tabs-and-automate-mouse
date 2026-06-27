@@ -1,0 +1,1 @@
+# Close-tabs-and-automate-mouse
